@@ -1,0 +1,3 @@
+fastapi
+uvicorn
+pymongo  # Only needed if using MongoDB
